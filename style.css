@@ -1,0 +1,14 @@
+/* *{
+    padding: 0px;
+    margin: 0px;
+} */
+body{
+    background:linear-gradient(to right, green,yellow) ;
+}
+img{
+    border-radius: 50%;
+    border: 1px solid cyan;
+}
+li{
+    list-style: none;
+}
